@@ -1,4 +1,4 @@
-package day02_driverMethods;
+package day_02_driverMethods;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -20,7 +20,7 @@ public class C05_NavigationMethods {
         driver.navigate().refresh();
         //7. Sayfayi kapatalim / Tum sayfalari kapatalim
 
-        driver.quit(); // quit metodu driver'in actigi tum sayfalari kapatir
+        driver.quit(); // quit metodu; mevcut driver'in actigi tum sayfalari kapatir
         // close ise , sadece driver'in son bulundugu sayfayi kapatir
 
     }

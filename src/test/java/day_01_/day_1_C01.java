@@ -1,4 +1,4 @@
-package day_1_;
+package day_01_;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 public class day_1_C01 {

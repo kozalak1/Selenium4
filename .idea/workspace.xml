@@ -5,15 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cc4c0cd-8b86-47c6-8e3b-4bd3104599bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C01_Tekrar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C02_DriverGetMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C03_GetMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C04_DriverNavigateMethodlari.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C05_NavigationMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C06_ManageWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C07_ManageWindowSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C08_ImplicitlyWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03_WebElementsAndLocators/AgainAndAgain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03_WebElementsAndLocators/C01_Tekrar_day_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03_WebElementsAndLocators/C02_LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_03_WebElementsAndLocators/C03_WebElementGetMethods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C01_Tekrar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day_02_driverMethods/C01_Tekrar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C02_DriverGetMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day_02_driverMethods/C02_DriverGetMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C03_GetMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day_02_driverMethods/C03_GetMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C04_DriverNavigateMethodlari.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day_02_driverMethods/C04_DriverNavigateMethodlari.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C05_NavigationMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day_02_driverMethods/C05_NavigationMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C06_ManageWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day_02_driverMethods/C06_ManageWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C07_ManageWindowSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day_02_driverMethods/C07_ManageWindowSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C08_ImplicitlyWait.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day_02_driverMethods/C08_ImplicitlyWait.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day_1_/day_1_C01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day_01_/day_1_C01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day02_driverMethods/C01_Tekrar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day02_driverMethods/C02_DriverGetMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day02_driverMethods/C03_GetMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day02_driverMethods/C04_DriverNavigateMethodlari.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day02_driverMethods/C05_NavigationMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day02_driverMethods/C06_ManageWindow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day02_driverMethods/C07_ManageWindowSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day02_driverMethods/C08_ImplicitlyWait.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day_1_/day_1_C01.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,13 +72,13 @@
       <recent name="D:\QA ENGINEER\Selenium4\resources\library" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C08_ImplicitlyWait">
-    <configuration name="C04_DriverNavigateMethodlari" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02_driverMethods.C04_DriverNavigateMethodlari" />
+  <component name="RunManager" selected="Application.C03_WebElementGetMethods">
+    <configuration name="AgainAndAgain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_03_WebElementsAndLocators.AgainAndAgain" />
       <module name="Selenium4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day02_driverMethods.*" />
+          <option name="PATTERN" value="day_03_WebElementsAndLocators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_NavigationMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02_driverMethods.C05_NavigationMethods" />
+    <configuration name="C01_Tekrar_day_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_03_WebElementsAndLocators.C01_Tekrar_day_2" />
       <module name="Selenium4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day02_driverMethods.*" />
+          <option name="PATTERN" value="day_03_WebElementsAndLocators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_ManageWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02_driverMethods.C06_ManageWindow" />
+    <configuration name="C02_LoginTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_03_WebElementsAndLocators.C02_LoginTest" />
       <module name="Selenium4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day02_driverMethods.*" />
+          <option name="PATTERN" value="day_03_WebElementsAndLocators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C07_ManageWindowSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02_driverMethods.C07_ManageWindowSet" />
+    <configuration name="C03_WebElementGetMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_03_WebElementsAndLocators.C03_WebElementGetMethods" />
       <module name="Selenium4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day02_driverMethods.*" />
+          <option name="PATTERN" value="day_03_WebElementsAndLocators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +126,11 @@
       </method>
     </configuration>
     <configuration name="C08_ImplicitlyWait" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02_driverMethods.C08_ImplicitlyWait" />
+      <option name="MAIN_CLASS_NAME" value="day_02_driverMethods.C08_ImplicitlyWait" />
       <module name="Selenium4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day02_driverMethods.*" />
+          <option name="PATTERN" value="day_02_driverMethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C03_WebElementGetMethods" />
+        <item itemvalue="Application.C02_LoginTest" />
+        <item itemvalue="Application.AgainAndAgain" />
+        <item itemvalue="Application.C01_Tekrar_day_2" />
         <item itemvalue="Application.C08_ImplicitlyWait" />
-        <item itemvalue="Application.C07_ManageWindowSet" />
-        <item itemvalue="Application.C06_ManageWindow" />
-        <item itemvalue="Application.C05_NavigationMethods" />
-        <item itemvalue="Application.C04_DriverNavigateMethodlari" />
       </list>
     </recent_temporary>
   </component>
