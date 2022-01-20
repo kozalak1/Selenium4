@@ -5,29 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cc4c0cd-8b86-47c6-8e3b-4bd3104599bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/day_03_WebElementsAndLocators/AgainAndAgain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day_03_WebElementsAndLocators/C01_Tekrar_day_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day_03_WebElementsAndLocators/C02_LoginTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day_03_WebElementsAndLocators/C03_WebElementGetMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/A_Practice_Homework/Q_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/A_Practice_Homework/Q_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/A_Practice_Homework/Q_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/A_Practice_Homework/Q_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_04_XPath_CssSelector/C01_Tekrar_Testi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_04_XPath_CssSelector/C02_X_Path.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_04_XPath_CssSelector/C03_X_Path_Text.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_04_XPath_CssSelector/C04_Css_Selector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_04_XPath_CssSelector/C05_RelativeLocators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_05_Relative_XPath/C01_Tekrar_Testi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C01_Tekrar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day_02_driverMethods/C01_Tekrar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C02_DriverGetMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day_02_driverMethods/C02_DriverGetMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C03_GetMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day_02_driverMethods/C03_GetMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C04_DriverNavigateMethodlari.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day_02_driverMethods/C04_DriverNavigateMethodlari.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C05_NavigationMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day_02_driverMethods/C05_NavigationMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C06_ManageWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day_02_driverMethods/C06_ManageWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C07_ManageWindowSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day_02_driverMethods/C07_ManageWindowSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C08_ImplicitlyWait.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day_02_driverMethods/C08_ImplicitlyWait.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day_1_/day_1_C01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day_01_/day_1_C01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/day02_driverMethods/C01_Tekrar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/day02_driverMethods/C02_DriverGetMethods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/day02_driverMethods/C03_GetMethods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/day02_driverMethods/C04_DriverNavigateMethodlari.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/day02_driverMethods/C05_NavigationMethods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/day02_driverMethods/C06_ManageWindow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/day02_driverMethods/C07_ManageWindowSet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/day02_driverMethods/C08_ImplicitlyWait.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/day_1_/day_1_C01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day_03_WebElementsAndLocators/C03_WebElementGetMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/day_03_WebElementsAndLocators/C03_WebElementGetMethods.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +48,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/library/selenium-java-4.1.0/selenium-support-4.1.0.jar" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -72,13 +61,13 @@
       <recent name="D:\QA ENGINEER\Selenium4\resources\library" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C03_WebElementGetMethods">
-    <configuration name="AgainAndAgain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_03_WebElementsAndLocators.AgainAndAgain" />
+  <component name="RunManager" selected="Application.C01_Tekrar_Testi (1)">
+    <configuration name="C01_Tekrar_Testi (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_05_Relative_XPath.C01_Tekrar_Testi" />
       <module name="Selenium4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_03_WebElementsAndLocators.*" />
+          <option name="PATTERN" value="day_05_Relative_XPath.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C01_Tekrar_day_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_03_WebElementsAndLocators.C01_Tekrar_day_2" />
+    <configuration name="C02_X_Path" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_04_XPath_CssSelector.C02_X_Path" />
       <module name="Selenium4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_03_WebElementsAndLocators.*" />
+          <option name="PATTERN" value="day_04_XPath_CssSelector.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_LoginTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_03_WebElementsAndLocators.C02_LoginTest" />
+    <configuration name="C03_X_Path_Text" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_04_XPath_CssSelector.C03_X_Path_Text" />
       <module name="Selenium4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_03_WebElementsAndLocators.*" />
+          <option name="PATTERN" value="day_04_XPath_CssSelector.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_WebElementGetMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_03_WebElementsAndLocators.C03_WebElementGetMethods" />
+    <configuration name="C04_Css_Selector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_04_XPath_CssSelector.C04_Css_Selector" />
       <module name="Selenium4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_03_WebElementsAndLocators.*" />
+          <option name="PATTERN" value="day_04_XPath_CssSelector.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C08_ImplicitlyWait" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_02_driverMethods.C08_ImplicitlyWait" />
+    <configuration name="C05_RelativeLocators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_04_XPath_CssSelector.C05_RelativeLocators" />
       <module name="Selenium4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_02_driverMethods.*" />
+          <option name="PATTERN" value="day_04_XPath_CssSelector.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C03_WebElementGetMethods" />
-        <item itemvalue="Application.C02_LoginTest" />
-        <item itemvalue="Application.AgainAndAgain" />
-        <item itemvalue="Application.C01_Tekrar_day_2" />
-        <item itemvalue="Application.C08_ImplicitlyWait" />
+        <item itemvalue="Application.C01_Tekrar_Testi (1)" />
+        <item itemvalue="Application.C05_RelativeLocators" />
+        <item itemvalue="Application.C04_Css_Selector" />
+        <item itemvalue="Application.C03_X_Path_Text" />
+        <item itemvalue="Application.C02_X_Path" />
       </list>
     </recent_temporary>
   </component>
