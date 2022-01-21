@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cc4c0cd-8b86-47c6-8e3b-4bd3104599bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/A_Practice_Homework/Q_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/A_Practice_Homework/Q_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/A_Practice_Homework/Q_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/A_Practice_Homework/Q_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day_04_XPath_CssSelector/C01_Tekrar_Testi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day_04_XPath_CssSelector/C02_X_Path.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day_04_XPath_CssSelector/C03_X_Path_Text.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day_04_XPath_CssSelector/C04_Css_Selector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day_04_XPath_CssSelector/C05_RelativeLocators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day_05_Relative_XPath/C01_Tekrar_Testi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_05_Relative_XPath/C02_Relative_XPath.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/day_03_WebElementsAndLocators/C03_WebElementGetMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/day_03_WebElementsAndLocators/C03_WebElementGetMethods.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
