@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3cc4c0cd-8b86-47c6-8e3b-4bd3104599bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/A_Practice_Homework/Q_05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/A_Practice_Homework/Q_06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/A_Practice_Homework/Q_07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/A_Practice_Homework/Q_08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/A_Practice_Homework/Q_09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/A_Practice_Homework/Q_10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day_05_Relative_XPath/C01_Tekrar_Testi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day_05_Relative_XPath/C01_Tekrar_Testi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day_05_Relative_XPath/C02_Relative_XPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day_05_Relative_XPath/C02_Relative_XPath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/day_05_Relative_XPath/C01_Tekrar_Testi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/day_05_Relative_XPath/C01_Tekrar_Testi.class" afterDir="false" />
-    </list>
+    <list default="true" id="3cc4c0cd-8b86-47c6-8e3b-4bd3104599bf" name="Changes" comment="22 march" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,9 +36,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -144,6 +133,14 @@
       <option name="presentableId" value="Default" />
       <updated>1642498188533</updated>
     </task>
+    <task id="LOCAL-00001" summary="22 march">
+      <created>1647975286083</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647975286083</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -156,5 +153,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="22 march" />
+    <option name="LAST_COMMIT_MESSAGE" value="22 march" />
   </component>
 </project>
