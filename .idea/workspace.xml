@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3cc4c0cd-8b86-47c6-8e3b-4bd3104599bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/day_05_Relative_XPath/C02_Relative_XPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/A_Practice_Homework/Q_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/A_Practice_Homework/Q_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/A_Practice_Homework/Q_07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/A_Practice_Homework/Q_08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/A_Practice_Homework/Q_09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/A_Practice_Homework/Q_10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day_05_Relative_XPath/C01_Tekrar_Testi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day_05_Relative_XPath/C01_Tekrar_Testi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day_05_Relative_XPath/C02_Relative_XPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day_05_Relative_XPath/C02_Relative_XPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day_05_Relative_XPath/C01_Tekrar_Testi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/day_05_Relative_XPath/C01_Tekrar_Testi.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_X_Path" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_04_XPath_CssSelector.C02_X_Path" />
+    <configuration name="C02_Relative_XPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_05_Relative_XPath.C02_Relative_XPath" />
       <module name="Selenium4" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_04_XPath_CssSelector.*" />
+          <option name="PATTERN" value="day_05_Relative_XPath.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,10 +128,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.C01_Tekrar_Testi (1)" />
+        <item itemvalue="Application.C02_Relative_XPath" />
         <item itemvalue="Application.C05_RelativeLocators" />
         <item itemvalue="Application.C04_Css_Selector" />
         <item itemvalue="Application.C03_X_Path_Text" />
-        <item itemvalue="Application.C02_X_Path" />
       </list>
     </recent_temporary>
   </component>
